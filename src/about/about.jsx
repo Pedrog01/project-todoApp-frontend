@@ -1,5 +1,5 @@
 import React from 'react'
-import PageHeader from '../template/PageHeader'
+import PageHeader from '../templete/PageHeader'
 
 const About = props => (
     <div>
