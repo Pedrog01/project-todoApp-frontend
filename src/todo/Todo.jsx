@@ -1,7 +1,7 @@
 import React,  {Component} from "react";
 import PageHeader from "../templete/pageHeader";
-import TodoForm from "./todoForm";
-import TodoList from "./todoList";
+import TodoForm from "./TodoForm";
+import TodoList from "./TodoList";
 
 export default class Todo extends Component {
     render(){

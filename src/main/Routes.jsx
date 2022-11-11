@@ -2,7 +2,7 @@ import React from "react";
 import { Route,Router, Redirect,hashHistory } from "react-router";
 
 
-import Todo from "../todo/todo";
+import Todo from "./src/todo/Todo";
 import About from "../about/about";
 
 
